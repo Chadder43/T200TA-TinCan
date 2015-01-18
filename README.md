@@ -1,6 +1,3 @@
-# T200TA-TinCan
-Boot files and other tools
-========================
 32-bit efi for Asus T100
 ========================
 
