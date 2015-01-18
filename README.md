@@ -1,4 +1,4 @@
-32-bit efi for Asus T100
+32-bit EFI for Asus T200TA
 ========================
 
 To generate this file yourself, do the following on any computer:
