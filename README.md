@@ -7,9 +7,9 @@ and sucessfully run Ubuntu 14.10, Desktop, 64bit,
 on the Asus Transformer T200TA-C1-BL.
 
 SYSTEM SPECS:
-Processor----------------Intel Atom Z3795 @ 1.60GHz
-Installen memory(RAM)----4.00GB (3.89GB usable)
-System type--------------64-bit OS x64-based processor
+#Processor----------------Intel Atom Z3795 @ 1.60GHz
+#Installen memory(RAM)----4.00GB (3.89GB usable)
+#System type--------------64-bit OS x64-based processor
 Pen and Touch------------Full win Touch Support with 10 Touch Points
 Storage------------------Built in 64 SSD-HDD
 Network------------------Broadcom 802.11abgn Wireless SDIO Adapter
